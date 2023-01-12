@@ -1,0 +1,50 @@
+.Container{
+text-align: center;
+margin-top: 23px;
+
+}
+
+
+table {
+margin: auto ;
+
+}
+
+input{
+    border-radius: 20px;
+    font-size: 28px;
+    border: 5px solid black;
+    height: 70px;
+    width: 290px;
+}
+
+button{
+font-size: 25px;
+border-radius: 150px;
+background: chartreuse;
+width: 70px;
+height: 63px;
+
+}
+
+.calculator{
+display: inline-block;
+background-color: black;
+border-radius: 53px;
+padding: 25px;
+
+}
+
+#operators{
+
+    background: orange;
+    color: white;
+
+}
+
+#clear{
+
+    background: Red;
+    color: white;
+
+}
